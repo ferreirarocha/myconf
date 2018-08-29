@@ -1,0 +1,41 @@
+coreos - 	marcos@192.168.1.40
+debian - 	marcos@192.168.1.22
+rancher - 	-i
+debian9 - 	marcos@192.168.1.22
+debiandocker - 	marcos@192.168.1.47
+debian2 - 	marcos@192.168.1.49
+rancher2 - 	ssh
+vyos - 	vyos@192.168.1.10
+vyos2 - 	vyos@192.168.1.10
+vyosb - 	vyos@192.168.1.10
+vyosb - 	vyos@192.168.1.10
+	 - 	
+	rancheros1 - 	rancher@192.168.1.111
+	rancheros1 - 	rancher@192.168.1.120
+	docker1-alpine - 	marcos@192.168.1.113
+	docker2-alpine - 	marcos@192.168.1.114
+	docker3-alpine - 	marcos@192.168.1.115
+	docker4-alpine - 	marcos@192.168.1.116
+	docker5-alpine - 	marcos@192.168.1.117
+	docker5-alpine - 	marcos@192.168.1.117
+	alpine1 - 	marcos@192.168.102.97
+	alpine - 	marcos@192.168.102.97
+	alpine - 	marcos@192.168.102.97
+	alpine2 - 	marcos@192.168.102.32
+	alpine3 - 	marcos@192.168.103.125
+	alpine4 - 	marcos@192.168.103.71
+	alpine5 - 	marcos@192.168.103.214
+	ubuntuserver - 	marcos@192.168.103.151
+	coreos25 - 	marcos@192.168.1.180
+	rancheros1 - 	rancher@192.168.1.130
+	rancheros1 - 	rancher@192.168.1.60
+	rancheros1 - 	rancher@192.168.1.60
+	rancheros1 - 	rancher@192.168.1.190
+	rancheros1 - 	rancher@192.168.1.122
+	rancheros@192.168.1.85 - 	
+	rancheros - 	rancheros@192.168.1.85
+	debian9 - 	marcos@192.168.1.135
+	debian9 - 	marcos@192.168.1.132
+	debian9.2 - 	marcos@192.168.1.134
+	venus - 	marcos@192.168.1.135
+	 - 	

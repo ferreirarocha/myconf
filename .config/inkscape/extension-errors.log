@@ -1,0 +1,38 @@
+Extensão "Win32 Vector Print" falha ao carregar porque Esta extensão foi desenvolvida apenas para Windows.  Isto foi causado por um arquivo .inx impróprio para esta extensão. Um arquivo .inx impróprio poderia ter sido causado por uma instalação defeituosa do Inkscape.
+Extensão "Sketch Input" falha ao carregar porque uma dependência não foi encontrada.
+Dependência:
+  tipo: executable
+  localização: caminho
+  frase: skconvert
+
+Extensão "DXF Output" falha ao carregar porque uma dependência não foi encontrada.
+Dependência:
+  tipo: executable
+  localização: caminho
+  frase: pstoedit
+  descrição: O pstoedit deve estar instalado; veja http://www.pstoedit.net/pstoedit
+
+Extensão "LaTeX" falha ao carregar porque uma dependência não foi encontrada.
+Dependência:
+  tipo: executable
+  localização: caminho
+  frase: latex
+
+Extensão "LaTeX" falha ao carregar porque uma dependência não foi encontrada.
+Dependência:
+  tipo: executable
+  localização: caminho
+  frase: dvips
+
+Extensão "LaTeX" falha ao carregar porque uma dependência não foi encontrada.
+Dependência:
+  tipo: executable
+  localização: caminho
+  frase: pstoedit
+
+Extensão "XFIG Input" falha ao carregar porque uma dependência não foi encontrada.
+Dependência:
+  tipo: executable
+  localização: caminho
+  frase: fig2dev
+

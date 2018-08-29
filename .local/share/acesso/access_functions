@@ -1,0 +1,10 @@
+
+vyos() { ssh -i /home/marcos/.ssh/key-acesso.rsa vyos@192.168.1.10; }
+docker1() { ssh -i /home/marcos/.ssh/key-acesso.rsa rancher@192.168.1.60; }
+vyos2() { ssh -i /home/marcos/.ssh/key-acesso.rsa vyos@192.168.1.10; }
+servidor() { ssh -i /home/marcos/.ssh/key-acesso.rsa user@192.168.1.1; }
+ebook-glpi2() { ssh -i /home/marcos/.ssh/key-acesso.rsa marcos@192.168.1.148; }
+ebook-glpi2() { ssh -i /home/marcos/.ssh/key-acesso.rsa marcos@192.168.1.150; }
+venus() { ssh -i /home/marcos/.ssh/key-acesso.rsa marcos@192.168.1.137; }
+ebook-glpi() { ssh -i /home/marcos/.ssh/key-acesso.rsa marcos@192.168.1.156; }
+oraclelinux() { ssh -i /home/marcos/.ssh/key-acesso.rsa marcos@192.168.1.158; }

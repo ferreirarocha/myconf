@@ -1,0 +1,19 @@
+{
+    "child": {
+        "directory": "\/home\/marcos",
+        "height": 580,
+        "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+        "readOnly": false,
+        "synchronizedInput": true,
+        "type": "Terminal",
+        "uuid": "12b4f0d3-d286-4aa9-96f9-2579e2f44059",
+        "width": 957
+    },
+    "height": 580,
+    "name": "${username}",
+    "synchronizedInput": false,
+    "type": "Session",
+    "uuid": "b91045dc-7432-4a76-a4d5-98fcce961a11",
+    "version": "1.0",
+    "width": 957
+}

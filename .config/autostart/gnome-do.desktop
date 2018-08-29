@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=GNOME Do
+Name[pt]=GNOME Do
+Name[pt_BR]=GNOME Do
+Type=Application
+Exec=gnome-do
+Terminal=false
+Icon=gnome-do
+Comment=Do things as quickly as possible (but no quicker) with your files, bookmarks, applications, music, contacts, and more!
+Comment[pt]=Faça as coisas tão rapidamente quanto possível (mas não mais rápido) com os seus ficheiros, marcadores, aplicações, música, contactos e muito mais!
+Comment[pt_BR]=Faça coisas tão rápido quanto possível (mas não muito rápido) com seus arquivos, favoritos, aplicativos, músicas, contatos e muito mais!
+Categories=Utility;
+Hidden=true
+

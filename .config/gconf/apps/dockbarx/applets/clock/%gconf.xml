@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="command" mtime="1533375162" type="string">
+		<stringvalue>orage</stringvalue>
+	</entry>
+	<entry name="custom_format" mtime="1534176758" type="string">
+		<stringvalue>&lt;span foreground=&quot;#FFFFFF&quot; font=&quot;Inconsolata for Powerline 14&quot;&gt;        %D  %H:%M&lt;/span&gt;</stringvalue>
+	</entry>
+	<entry name="use_custom_format" mtime="1534177055" type="bool" value="true"/>
+	<entry name="show_date" mtime="1533435260" type="bool" value="true"/>
+	<entry name="color" mtime="1533375162" type="string">
+		<stringvalue>#FFFFFF</stringvalue>
+	</entry>
+	<entry name="font" mtime="1534012263" type="string">
+		<stringvalue>Ropa Sans 14</stringvalue>
+	</entry>
+	<entry name="text_direction" mtime="1534177055" type="string">
+		<stringvalue>default</stringvalue>
+	</entry>
+</gconf>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="offset" mtime="1531159062" type="int" value="10"/>
+	<entry name="monitor_x_offset" mtime="1531158993" type="int" value="0"/>
+	<entry name="monitor_num" mtime="1531158972" type="int" value="0"/>
+	<entry name="monitor_force" mtime="1531159076" type="bool" value="true"/>
+	<entry name="orient" mtime="1531159069" type="int" value="3"/>
+	<entry name="expand" mtime="1531159069" type="bool" value="false"/>
+	<entry name="size" mtime="1531159069" type="int" value="48"/>
+	<entry name="intellihide_mode" mtime="1531159014" type="int" value="0"/>
+	<entry name="clickthrough" mtime="1531159081" type="int" value="2"/>
+	<entry name="panel_mode" mtime="1531159014" type="bool" value="true"/>
+	<entry name="style" mtime="1531159069" type="int" value="1"/>
+	<entry name="monitor_align" mtime="1531158944" type="float" value="0.83443707227706909"/>
+	<entry name="ua_active_list" mtime="1531158888" type="list" ltype="string">
+	</entry>
+	<entry name="monitor_width" mtime="1531159076" type="int" value="1440"/>
+	<entry name="monitor_height" mtime="1531159076" type="int" value="900"/>
+</gconf>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="drag_and_drop" mtime="1531159049" type="bool" value="true"/>
+	<entry name="show_all_windows" mtime="1531159047" type="bool" value="true"/>
+	<entry name="only_show_launchers" mtime="1531159044" type="bool" value="false"/>
+	<entry name="launcher_paths" mtime="1531158888" type="list" ltype="string">
+	</entry>
+</gconf>

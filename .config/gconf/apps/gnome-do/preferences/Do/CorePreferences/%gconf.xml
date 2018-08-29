@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="AlwaysShowResults" mtime="1534850407" type="bool" value="true"/>
+	<entry name="Theme" mtime="1534850459" type="string">
+		<stringvalue>Nouveau</stringvalue>
+	</entry>
+</gconf>

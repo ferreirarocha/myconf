@@ -1,0 +1,17 @@
+[ScreenConnectors]
+10=HDMI2
+11=VGA1
+
+[UniversalSettings]
+canDisableBorders=false
+currentLayout=
+downloadWindowSize=800,550
+lastNonAssignedLayout=
+launchers=
+layoutsColumnWidths=
+layoutsWindowSize=700,450
+memoryUsage=0
+mouseSensitivity=2
+screenTrackerInterval=2500
+showInfoWindow=true
+version=1

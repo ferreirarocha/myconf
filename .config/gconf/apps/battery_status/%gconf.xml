@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="power_manager" mtime="1533375087" type="bool" value="false"/>
+	<entry name="powermode_as_submenu" mtime="1533375087" type="bool" value="false"/>
+	<entry name="reduce_hours" mtime="1533375087" type="bool" value="false"/>
+	<entry name="power_source_sensitive" mtime="1533375087" type="bool" value="false"/>
+	<entry name="show_settings" mtime="1533375087" type="bool" value="true"/>
+	<entry name="show_textsize" mtime="1533375087" type="bool" value="false"/>
+	<entry name="show_powermode" mtime="1533375087" type="bool" value="true"/>
+	<entry name="first_run" mtime="1533376116" type="bool" value="false"/>
+	<entry name="timer" mtime="1533375087" type="int" value="60"/>
+	<entry name="percentage_low" mtime="1533375087" type="int" value="8"/>
+	<entry name="show_power" mtime="1533375087" type="bool" value="true"/>
+	<entry name="show_session" mtime="1533375087" type="bool" value="false"/>
+	<entry name="show_sleep" mtime="1533375087" type="bool" value="false"/>
+	<entry name="show_status" mtime="1533375087" type="bool" value="true"/>
+	<entry name="show_tooltip" mtime="1533375087" type="bool" value="true"/>
+	<entry name="show_info" mtime="1533375087" type="bool" value="false"/>
+	<entry name="lock_screen" mtime="1533375087" type="bool" value="true"/>
+	<entry name="icon_policy" mtime="1533375087" type="string">
+		<stringvalue>always</stringvalue>
+	</entry>
+	<entry name="text" mtime="1533375087" type="string">
+		<stringvalue>small</stringvalue>
+	</entry>
+	<entry name="show" mtime="1533375087" type="string">
+		<stringvalue>icon</stringvalue>
+	</entry>
+</gconf>

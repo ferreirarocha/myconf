@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="size" mtime="1533375093" type="int" value="500"/>
+	<entry name="alignment" mtime="1533376070" type="int" value="0"/>
+	<entry name="custom_layout" mtime="1533375093" type="string">
+		<stringvalue>menu:minimize,maximize,close</stringvalue>
+	</entry>
+	<entry name="show_title" mtime="1533376090" type="string">
+		<stringvalue>maximized</stringvalue>
+	</entry>
+	<entry name="expand" mtime="1533375093" type="bool" value="true"/>
+	<entry name="active_bold" mtime="1533375093" type="bool" value="false"/>
+	<entry name="theme" mtime="1533376087" type="string">
+		<stringvalue>Human-ish</stringvalue>
+	</entry>
+	<entry name="passive_bold" mtime="1533375093" type="bool" value="false"/>
+	<entry name="passive_color" mtime="1533375093" type="string">
+		<stringvalue>#AAAAAA</stringvalue>
+	</entry>
+	<entry name="active_color" mtime="1533375093" type="string">
+		<stringvalue>#EEEEEE</stringvalue>
+	</entry>
+	<entry name="show_buttons" mtime="1533375093" type="bool" value="true"/>
+	<entry name="use_custom_layout" mtime="1533376085" type="bool" value="false"/>
+</gconf>

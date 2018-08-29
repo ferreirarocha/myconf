@@ -1,0 +1,28 @@
+[Desktop Entry]
+Version=1.0
+Name[pt_BR]=Tilix
+Name=Tilix
+Comment[pt_BR]=Um terminal em mosaico para o GNOME
+Comment=A tiling terminal for Gnome
+Keywords[pt_BR]=shell;prompt;comando;linha de comando;cmd;
+Keywords=shell;prompt;command;commandline;cmd;
+Exec=tilix
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=System;TerminalEmulator;X-GNOME-Utilities;
+Icon[pt_BR]=com.gexperts.Tilix
+Icon=com.gexperts.Tilix
+DBusActivatable=true
+Actions=new-window;new-session;
+X-XFCE-Source=file:///usr/share/applications/com.gexperts.Tilix.desktop
+
+[Desktop Action new-window]
+Name[pt_BR]=Nova janela
+Name=New Window
+Exec=tilix --action=app-new-window
+
+[Desktop Action new-session]
+Name[pt_BR]=Nova sessão
+Name=New Session
+Exec=tilix --action=app-new-session

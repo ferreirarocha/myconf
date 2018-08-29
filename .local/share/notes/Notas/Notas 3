@@ -1,0 +1,83 @@
+wifi-menu -o wlp9s0
+
+fdisk -l
+mkfs.ext4 /dev/sda1
+mkfs.ext4 /dev/sda2
+
+mount /dev/sda1 /mnt
+
+mkdir /mnt/home
+
+mount /dev/sda2 /mnt/home
+
+pacstrap /mnt base base-devel
+
+
+genfstab /mnt >> /mnt/etc/fstab
+
+cat /mnt/etc/fstab
+
+arch-chroot /mnt /bin/bash
+
+pacman -S nano dhcp  grub os-prober --noconfirm
+nano /etc/locale.gen
+
+pt_BR.UTF-8
+
+locale-gen
+
+echo "LANG=pt_BR.UTF-8"  > /etc/locale.conf
+
+
+rm /etc/localtime
+
+ln -s /usr/share/zoneinfo/America/Sao_Paulo /etc/localtime
+
+hwclock --systohc --utc
+
+passwd
+useradd -m -g users -G wheel,storage,power -s /bin/bash marcos
+passwd marcos
+
+
+echo "cronus" > /etc/hostname
+
+systemctl enable dhcpd4
+
+## Instalando  o Gruob no disco
+grub-install /dev/sda
+
+
+grub-mkconfig -o /boot/grub/grub.cfg
+
+exit
+
+umount /mnt/home
+umount /mnt
+
+
+
+reboot
+
+
+nano /etc/pacman.conf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

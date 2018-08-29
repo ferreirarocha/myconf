@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfdashboard" version="1.0">
+  <property name="theme" type="string" value="xfdashboard-blue"/>
+  <property name="favourites" type="array">
+    <value type="string" value="exo-web-browser.desktop"/>
+    <value type="string" value="exo-file-manager.desktop"/>
+    <value type="string" value="exo-terminal-emulator.desktop"/>
+  </property>
+  <property name="components" type="empty">
+    <property name="windows-view" type="empty">
+      <property name="scroll-event-changes-workspace" type="bool" value="true"/>
+    </property>
+    <property name="search-view" type="empty">
+      <property name="delay-search-timeout" type="uint" value="0"/>
+    </property>
+    <property name="applications-view" type="empty">
+      <property name="show-all-apps" type="bool" value="true"/>
+    </property>
+  </property>
+  <property name="enable-unmapped-window-workaround" type="bool" value="true"/>
+  <property name="window-content-creation-priority" type="string" value="low"/>
+  <property name="min-notification-timeout" type="uint" value="1000"/>
+  <property name="reset-search-on-resume" type="bool" value="true"/>
+  <property name="always-launch-new-instance" type="bool" value="false"/>
+  <property name="enabled-plugins" type="array">
+    <value type="string" value="gnome-shell-search-provider"/>
+  </property>
+</channel>

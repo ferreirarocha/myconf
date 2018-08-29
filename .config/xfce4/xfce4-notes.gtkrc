@@ -1,0 +1,2 @@
+gtk_color_scheme = "notes_fg_color:#f748fffff748\nnotes_bg_color:#639e71c4639e\nnotes_base_color:#f748fffff748\nnotes_text_color:#639e71c4639e\nnotes_selected_bg_color:#803d9274803d\nnotes_selected_fg_color:#f748fffff748"
+include "/usr/share/xfce4-notes-plugin/gtk-2.0/notes.gtkrc"

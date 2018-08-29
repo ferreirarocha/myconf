@@ -1,0 +1,15 @@
+# GIMP user context
+
+(tool "gimp-shear-tool")
+(paint-info "gimp-paintbrush")
+(foreground (color-rgb 0.959276 0.077257 0.316719))
+(brush "2. Hardness 050")
+(dynamics "Dynamics Off")
+(mybrush "100% Opaque")
+(pattern "Pine")
+(gradient "Frente para fundo (RGB) ")
+(palette "Histórico de cor")
+(font "Sans-serif")
+(tool-preset "Core Pointer")
+
+# end of user context

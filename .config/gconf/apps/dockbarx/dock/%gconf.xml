@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="theme_file" mtime="1533469649" type="string">
+		<stringvalue>invisible.tar.gz</stringvalue>
+	</entry>
+	<entry name="offset" mtime="1534175218" type="int" value="29"/>
+	<entry name="behavior" mtime="1534176689" type="string">
+		<stringvalue>panel</stringvalue>
+	</entry>
+	<entry name="size" mtime="1534175521" type="int" value="25"/>
+	<entry name="end_decorations" mtime="1534175221" type="bool" value="false"/>
+	<entry name="mode" mtime="1534176721" type="string">
+		<stringvalue>corner</stringvalue>
+	</entry>
+	<entry name="position" mtime="1534177810" type="string">
+		<stringvalue>bottom</stringvalue>
+	</entry>
+</gconf>
